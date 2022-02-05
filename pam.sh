@@ -2,6 +2,4 @@
 echo "Hello World!!"
 id
 whoami
-
-
-
+echo "asd"
