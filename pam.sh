@@ -3,4 +3,4 @@ echo "Hello World!!"
 id
 whoami
 echo "asd"
-exit 0
+exit 8
