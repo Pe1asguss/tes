@@ -1,3 +1,4 @@
-echo "Hello World!!"\n
-id\n
-whoami\n
+#!/bin/bash
+echo "Hello World!!"
+id
+whoami
