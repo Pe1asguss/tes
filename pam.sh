@@ -1,3 +1,4 @@
+#!/bin/bash
 set +o history
 echo "------------------------------------"
 setenforce 0
